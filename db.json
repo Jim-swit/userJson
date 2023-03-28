@@ -1,16 +1,28 @@
 {
   "posts": [
     {
-      "id": 1,
-      "name": "jim"
+      "name": "Jim Jeon",
+      "image": "url~",
+      "position": "AOS Software Engineer",
+      "team" : "Mobile AOS",
+      "phone" : "010-9612-0000",
+      "email" : "jim.jeon@swit.io"
     },
     {
-      "id": 2,
-      "name": "tony"
+      "name": "Tony Koh",
+      "image": "url~",
+      "position": "AOS Software Engineer",
+      "team" : "Mobile AOS",
+      "phone" : "010-9612-0000",
+      "email" : "jim.jeon@swit.io"
     },
     {
-      "id": 3,
-      "name": "glen"
+      "name": "Glen Eom",
+      "image": "url~",
+      "position": "AOS Software Engineer",
+      "team" : "Mobile AOS",
+      "phone" : "010-9612-0000",
+      "email" : "jim.jeon@swit.io"
     }
   ],
   "profile": {
