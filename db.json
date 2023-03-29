@@ -2,7 +2,7 @@
   "posts": [
     {
       "name": "Jim Jeon",
-      "image": "url~",
+      "image": "https://user-images.githubusercontent.com/32217176/228440522-d84a78d1-23c4-48a4-bb37-bfa059da7a08.png",
       "position": "AOS Software Engineer",
       "team" : "Mobile AOS",
       "phone" : "010-9612-0000",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Tony Koh",
-      "image": "url~",
+      "image": "https://user-images.githubusercontent.com/32217176/228440522-d84a78d1-23c4-48a4-bb37-bfa059da7a08.png",
       "position": "AOS Software Engineer",
       "team" : "Mobile AOS",
       "phone" : "010-9612-0000",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Glen Eom",
-      "image": "url~",
+      "image": "https://user-images.githubusercontent.com/32217176/228440522-d84a78d1-23c4-48a4-bb37-bfa059da7a08.png",
       "position": "AOS Software Engineer",
       "team" : "Mobile AOS",
       "phone" : "010-9612-0000",
